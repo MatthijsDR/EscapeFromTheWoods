@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Contracts\Contracts.csproj" />
+    <ProjectReference Include="..\CreateAndEscape\CreateAndEscape.csproj" />
+    <ProjectReference Include="..\DatabaseLogic\DatabaseLogic.csproj" />
+    <ProjectReference Include="..\ExportToFiles\ExportToFiles.csproj" />
+  </ItemGroup>
+
+</Project>

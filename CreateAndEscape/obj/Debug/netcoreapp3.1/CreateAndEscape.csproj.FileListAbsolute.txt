@@ -1,0 +1,12 @@
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\CreateAndEscape\bin\Debug\netcoreapp3.1\CreateAndEscape.deps.json
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\CreateAndEscape\bin\Debug\netcoreapp3.1\CreateAndEscape.dll
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\CreateAndEscape\bin\Debug\netcoreapp3.1\CreateAndEscape.pdb
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\CreateAndEscape\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\CreateAndEscape\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\CreateAndEscape\obj\Debug\netcoreapp3.1\CreateAndEscape.csprojAssemblyReference.cache
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\CreateAndEscape\obj\Debug\netcoreapp3.1\CreateAndEscape.csproj.CoreCompileInputs.cache
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\CreateAndEscape\obj\Debug\netcoreapp3.1\CreateAndEscape.AssemblyInfoInputs.cache
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\CreateAndEscape\obj\Debug\netcoreapp3.1\CreateAndEscape.AssemblyInfo.cs
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\CreateAndEscape\obj\Debug\netcoreapp3.1\CreateAndEscape.csproj.CopyComplete
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\CreateAndEscape\obj\Debug\netcoreapp3.1\CreateAndEscape.dll
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\CreateAndEscape\obj\Debug\netcoreapp3.1\CreateAndEscape.pdb

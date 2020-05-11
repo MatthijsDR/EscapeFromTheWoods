@@ -1,0 +1,12 @@
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\DatabaseLogic\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\DatabaseLogic\obj\Debug\netcoreapp3.1\DatabaseLogic.csprojAssemblyReference.cache
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\DatabaseLogic\obj\Debug\netcoreapp3.1\DatabaseLogic.AssemblyInfoInputs.cache
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\DatabaseLogic\obj\Debug\netcoreapp3.1\DatabaseLogic.AssemblyInfo.cs
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\DatabaseLogic\bin\Debug\netcoreapp3.1\DatabaseLogic.deps.json
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\DatabaseLogic\bin\Debug\netcoreapp3.1\DatabaseLogic.dll
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\DatabaseLogic\bin\Debug\netcoreapp3.1\DatabaseLogic.pdb
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\DatabaseLogic\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\DatabaseLogic\obj\Debug\netcoreapp3.1\DatabaseLogic.csproj.CoreCompileInputs.cache
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\DatabaseLogic\obj\Debug\netcoreapp3.1\DatabaseLogic.csproj.CopyComplete
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\DatabaseLogic\obj\Debug\netcoreapp3.1\DatabaseLogic.dll
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\DatabaseLogic\obj\Debug\netcoreapp3.1\DatabaseLogic.pdb

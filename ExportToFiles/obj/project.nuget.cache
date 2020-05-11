@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0exLvEeRMwjuIP5dncmPYVzPmX7mrt0ZTW8w7dGLIdy2XO7WymT8/A7dODWZ6fci01lAw/oWbKvZwp5si9WlQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\ExportToFiles\\ExportToFiles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matthijs\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Matthijs\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Matthijs\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

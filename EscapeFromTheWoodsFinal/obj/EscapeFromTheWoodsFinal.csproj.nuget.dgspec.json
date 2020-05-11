@@ -1,0 +1,361 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\EscapeFromTheWoodsFinal\\EscapeFromTheWoodsFinal.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\Async\\Async.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\Async\\Async.csproj",
+        "projectName": "Async",
+        "projectPath": "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\Async\\Async.csproj",
+        "packagesPath": "C:\\Users\\Matthijs\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\Async\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Matthijs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\Contracts\\Contracts.csproj"
+              },
+              "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\CreateAndEscape\\CreateAndEscape.csproj": {
+                "projectPath": "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\CreateAndEscape\\CreateAndEscape.csproj"
+              },
+              "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\DatabaseLogic\\DatabaseLogic.csproj": {
+                "projectPath": "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\DatabaseLogic\\DatabaseLogic.csproj"
+              },
+              "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\ExportToFiles\\ExportToFiles.csproj": {
+                "projectPath": "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\ExportToFiles\\ExportToFiles.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\Contracts\\Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\Contracts\\Contracts.csproj",
+        "projectName": "Contracts",
+        "projectPath": "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\Contracts\\Contracts.csproj",
+        "packagesPath": "C:\\Users\\Matthijs\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Matthijs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\CreateAndEscape\\CreateAndEscape.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\CreateAndEscape\\CreateAndEscape.csproj",
+        "projectName": "CreateAndEscape",
+        "projectPath": "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\CreateAndEscape\\CreateAndEscape.csproj",
+        "packagesPath": "C:\\Users\\Matthijs\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\CreateAndEscape\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Matthijs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\Contracts\\Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\DatabaseLogic\\DatabaseLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\DatabaseLogic\\DatabaseLogic.csproj",
+        "projectName": "DatabaseLogic",
+        "projectPath": "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\DatabaseLogic\\DatabaseLogic.csproj",
+        "packagesPath": "C:\\Users\\Matthijs\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\DatabaseLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Matthijs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\Contracts\\Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\EscapeFromTheWoodsFinal\\EscapeFromTheWoodsFinal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\EscapeFromTheWoodsFinal\\EscapeFromTheWoodsFinal.csproj",
+        "projectName": "EscapeFromTheWoodsFinal",
+        "projectPath": "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\EscapeFromTheWoodsFinal\\EscapeFromTheWoodsFinal.csproj",
+        "packagesPath": "C:\\Users\\Matthijs\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\EscapeFromTheWoodsFinal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Matthijs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\Async\\Async.csproj": {
+                "projectPath": "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\Async\\Async.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\ExportToFiles\\ExportToFiles.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\ExportToFiles\\ExportToFiles.csproj",
+        "projectName": "ExportToFiles",
+        "projectPath": "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\ExportToFiles\\ExportToFiles.csproj",
+        "packagesPath": "C:\\Users\\Matthijs\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\ExportToFiles\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Matthijs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\Matthijs\\source\\repos\\EscapeFromTheWoodsFinal\\Contracts\\Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

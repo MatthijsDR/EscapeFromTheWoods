@@ -1,0 +1,12 @@
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\ExportToFiles\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\ExportToFiles\obj\Debug\netcoreapp3.1\ExportToFiles.csprojAssemblyReference.cache
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\ExportToFiles\obj\Debug\netcoreapp3.1\ExportToFiles.AssemblyInfoInputs.cache
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\ExportToFiles\obj\Debug\netcoreapp3.1\ExportToFiles.AssemblyInfo.cs
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\ExportToFiles\obj\Debug\netcoreapp3.1\ExportToFiles.csproj.CoreCompileInputs.cache
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\ExportToFiles\bin\Debug\netcoreapp3.1\ExportToFiles.deps.json
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\ExportToFiles\bin\Debug\netcoreapp3.1\ExportToFiles.dll
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\ExportToFiles\bin\Debug\netcoreapp3.1\ExportToFiles.pdb
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\ExportToFiles\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\ExportToFiles\obj\Debug\netcoreapp3.1\ExportToFiles.csproj.CopyComplete
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\ExportToFiles\obj\Debug\netcoreapp3.1\ExportToFiles.dll
+C:\Users\Matthijs\source\repos\EscapeFromTheWoodsFinal\ExportToFiles\obj\Debug\netcoreapp3.1\ExportToFiles.pdb
